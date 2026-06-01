@@ -1,2 +1,2 @@
 This repository includes third-party components licensed under different terms.
-See ./illustrator/lib/json2-LICENSE for details.
+See ./lib/json2-LICENSE for details.
